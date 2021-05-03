@@ -6,6 +6,7 @@ The following command line options are available:
 
 
 --help      Print out the help message
+
 --version   Print out version information
 
 
