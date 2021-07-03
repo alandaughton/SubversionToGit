@@ -16,7 +16,7 @@ The following command line options are available:
   
 -authors <path>       Location of file that holds a map from Subversion authors to Git authors + emails (REQUIRED)
   
-[-history <path>]     Location to store the revision hsitory XML file (OPTIONAL)
+[-history <path>]     Location to store the revision history XML file (OPTIONAL)
   
 [-log <path>]         Location where logging data is written (OPTIONAL)
   
